@@ -1,0 +1,4 @@
+{
+  "currentversion": "0.1"
+  "downloadlink": "https://google.com/"
+}
